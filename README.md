@@ -43,9 +43,11 @@ Create a virtual environment for a project:
 1. cd into the dos-census-events directory
 
 2. Create a virtual environment for a project:
+
     $ virtualenv .
 
 3. Activate the virtual environment:
+
     $ source bin/activate
 
 The name of the current virtual environment will now appear on the left of the prompt and you are ready to proceed to the Setup steps. If you are done working in the virtual environment for the moment, you can deactivate it with:
