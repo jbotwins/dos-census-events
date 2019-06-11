@@ -40,6 +40,7 @@ Check your versions:
     $ virtualenv --version
 
 Create a virtual environment for a project:
+
 cd into the dos-census-events directory
 
 Create a virtual environment for a project:
