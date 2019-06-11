@@ -40,13 +40,13 @@ Check your versions:
     $ virtualenv --version
 
 Create a virtual environment for a project:
-1. cd into the dos-census-events directory
+cd into the dos-census-events directory
 
-2. Create a virtual environment for a project:
+Create a virtual environment for a project:
 
     $ virtualenv .
 
-3. Activate the virtual environment:
+Activate the virtual environment:
 
     $ source bin/activate
 
